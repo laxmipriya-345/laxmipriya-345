@@ -1,6 +1,4 @@
-<div align="center">
- <img src="profile.jpg.jpeg" width="180" style="border-radius:50%" />
-</div>
+
 
 # 👋 Hi, I'm Laxmipriya Rout
 
