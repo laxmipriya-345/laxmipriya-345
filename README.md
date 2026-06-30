@@ -2,14 +2,35 @@
 
 # 👋 Hi, I'm Laxmipriya Rout
 
-**Aspiring Data Scientist | Machine Learning | AI & Deep Learning Enthusiast**
+AI Engineer | Machine Learning Researcher
+Open Source Contributor | Full Stack Developer
+Building Intelligent Systems with AI
 
-- 🔍 Passionate about data-driven problem solving  
-- 🤖 Interested in Machine Learning, AI, and Deep Learning  
-- 📊 Love working with data, models, and real-world applications  
+## 🚀 About Me
+
+I'm a passionate AI and Machine Learning enthusiast who enjoys solving real-world problems through data and intelligent systems.
+
+I love building AI-powered applications, contributing to open source, and exploring emerging technologies like Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, and MLOps.
+
+I'm actively preparing for Google Summer of Code (GSoC), LFX Mentorship, AI internships, research opportunities, and software engineering roles.
 
 ---
+🔭 Building AI Applications
+🌱 Learning Generative AI & LLMs
+🤝 Contributing to Open Source
+📚 Researching Deep Learning
+🚀 Preparing for GSoC & LFX
+eatured Projects
 
+Pin your best repositories:
+
+⭐ AI Chatbot using OpenAI
+⭐ Student Digital Well-being AI
+⭐ Panda vs Bear Classification
+⭐ Traffic Prediction Dashboard
+⭐ Full Stack Task Manager
+
+⭐ Open Source Contributions
 ## 🛠 Tech Stack
 
 ### Programming & Web
